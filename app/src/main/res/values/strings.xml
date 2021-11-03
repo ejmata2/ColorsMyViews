@@ -7,4 +7,7 @@
     <string name="box_five">Box Five</string>
     <string name="how_to_play">Cómo jugar:</string>
     <string name="tap_the_boxes_and_buttons">Pulsa la pantalla y los botones.</string>
+    <string name="button_red">ROJO</string>
+    <string name="button_yellow">AMARILLO</string>
+    <string name="button_green">VERDE</string>
 </resources>
